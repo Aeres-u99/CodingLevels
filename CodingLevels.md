@@ -12,10 +12,10 @@
   * Print N numbers in reverse order -- Done
 ### Level 2: Loops & Basic Data Structures (11-20)
   * Sum of first N natural numbers -- Done
-  * Factorial of a number using a loop
-  * Fibonacci sequence up to N terms
-  * Check if a number is prime
-  * Print the multiplication table of a given number
+  * Factorial of a number using a loop -- Done
+  * Fibonacci sequence up to N terms -- Done
+  * Check if a number is prime --
+  * Print the multiplication table of a given number -- Done
   * Count the number of digits in a number
   * Reverse a number
   * Find the sum of digits of a number
