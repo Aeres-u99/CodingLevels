@@ -14,11 +14,11 @@
   * Sum of first N natural numbers -- Done
   * Factorial of a number using a loop -- Done
   * Fibonacci sequence up to N terms -- Done
-  * Check if a number is prime --
+  * Check if a number is prime -- Done
   * Print the multiplication table of a given number -- Done
-  * Count the number of digits in a number
+  * Count the number of digits in a number -- Done
   * Reverse a number
-  * Find the sum of digits of a number
+  * Find the sum of digits of a number -- Done
   * Check if a number is a palindrome
   * Find the greatest common divisor (GCD) of two numbers
 ### Level 3: Arrays & Slices (21-30)
