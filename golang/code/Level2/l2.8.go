@@ -24,5 +24,10 @@ func main(){
         os.Exit(0)
     }
     reversed = reverse(number)
+    if reversed == number {
+        fmt.Print("Pallindrome pewpew")
+    } else {
+        fmt.Print("Not a pallindrome")
+    }
     fmt.Printf("Reversed: %d", reversed)
 }
