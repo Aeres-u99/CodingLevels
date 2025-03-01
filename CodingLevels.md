@@ -17,15 +17,15 @@
   * Check if a number is prime -- Done
   * Print the multiplication table of a given number -- Done
   * Count the number of digits in a number -- Done
-  * Reverse a number
+  * Reverse a number -- Done
   * Find the sum of digits of a number -- Done
-  * Check if a number is a palindrome
+  * Check if a number is a palindrome -- Done
   * Find the greatest common divisor (GCD) of two numbers
 ### Level 3: Arrays & Slices (21-30)
-  * Find the largest element in an array
-  * Find the second largest element in an array
-  * Count occurrences of an element in an array
-  * Reverse an array
+  * Find the largest element in an array -- Done
+  * Find the second largest element in an array -- Done
+  * Count occurrences of an element in an array -- Done
+  * Reverse an array -- Done
   * Merge two sorted arrays
   * Remove duplicates from an array
   * Rotate an array to the right by K positions
