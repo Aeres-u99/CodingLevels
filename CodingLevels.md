@@ -26,7 +26,7 @@
   * Find the second largest element in an array -- Done
   * Count occurrences of an element in an array -- Done
   * Reverse an array -- Done
-  * Merge two sorted arrays
+  * Merge two sorted arrays -- Done
   * Remove duplicates from an array
   * Rotate an array to the right by K positions
   * Find the intersection of two arrays
