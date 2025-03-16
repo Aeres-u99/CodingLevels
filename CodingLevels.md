@@ -35,8 +35,8 @@
 ### Level 4: Strings (31-40)
   * Reverse a string -- Done
   * Check if a string is a palindrome -- Done
-  * Count vowels and consonants in a string
-  * Remove spaces from a string
+  * Count vowels and consonants in a string -- Done
+  * Remove spaces from a string -- Done
   * Find the most frequent character in a string
   * Replace all occurrences of a character in a string
   * Check if two strings are anagrams
