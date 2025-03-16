@@ -33,8 +33,8 @@
   * Find the union of two arrays
   * Find the missing number in an array of 1 to N
 ### Level 4: Strings (31-40)
-  * Reverse a string
-  * Check if a string is a palindrome
+  * Reverse a string -- Done
+  * Check if a string is a palindrome -- Done
   * Count vowels and consonants in a string
   * Remove spaces from a string
   * Find the most frequent character in a string
