@@ -28,7 +28,7 @@
   * Reverse an array -- Done
   * Merge two sorted arrays -- Done
   * Remove duplicates from an array -- Done
-  * Rotate an array to the right by K positions
+  * Rotate an array to the right by K positions -- Done
   * Find the intersection of two arrays
   * Find the union of two arrays
   * Find the missing number in an array of 1 to N
@@ -64,7 +64,7 @@
   * Implement the Tower of Hanoi
   * Implement a recursive sum of digits
   * Write a function to find the nth Fibonacci number
-Implement a function that checks if a list is sorted
+  * Implement a function that checks if a list is sorted
 ### Level 7: Pointers & Interfaces (61-70)
   * Swap two numbers using pointers
   * Implement a function to double a number using a pointer
