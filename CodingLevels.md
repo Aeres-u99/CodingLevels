@@ -29,7 +29,7 @@
   * Merge two sorted arrays -- Done
   * Remove duplicates from an array -- Done
   * Rotate an array to the right by K positions -- Done
-  * Find the intersection of two arrays
+  * Find the intersection of two array -- Done
   * Find the union of two arrays
   * Find the missing number in an array of 1 to N
 ### Level 4: Strings (31-40)
