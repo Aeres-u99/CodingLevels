@@ -1,0 +1,3 @@
+// Ignoring *.go and *.o files in cwd
+*.go
+
