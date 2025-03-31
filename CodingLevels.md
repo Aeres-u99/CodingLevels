@@ -20,7 +20,7 @@
   * Reverse a number -- Done
   * Find the sum of digits of a number -- Done
   * Check if a number is a palindrome -- Done
-  * Find the greatest common divisor (GCD) of two numbers
+  * Find the greatest common divisor (GCD) of two numbers -- Done
 ### Level 3: Arrays & Slices (21-30)
   * Find the largest element in an array -- Done
   * Find the second largest element in an array -- Done
@@ -30,14 +30,14 @@
   * Remove duplicates from an array -- Done
   * Rotate an array to the right by K positions -- Done
   * Find the intersection of two array -- Done
-  * Find the union of two arrays
+  * Find the union of two arrays -- Done
   * Find the missing number in an array of 1 to N
 ### Level 4: Strings (31-40)
   * Reverse a string -- Done
   * Check if a string is a palindrome -- Done
   * Count vowels and consonants in a string -- Done
   * Remove spaces from a string -- Done
-  * Find the most frequent character in a string
+  * Find the most frequent character in a string -- Done
   * Replace all occurrences of a character in a string
   * Check if two strings are anagrams
   * Convert a string to uppercase and lowercase
@@ -58,7 +58,7 @@
   * Write a function to check if a number is prime
   * Implement recursive factorial calculation
   * Implement recursive Fibonacci calculation
-  * Find the greatest common divisor using recursion
+  * Find the greatest common divisor using recursion -- Done (Check 2.10)
   * Implement a recursive binary search
   * Implement a recursive string reversal
   * Implement the Tower of Hanoi
