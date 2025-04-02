@@ -1,45 +1,45 @@
 ## Learning Any programming Language
 ### Level 1: Basic I/O & Conditionals (1-10)
-  * Print "Hello, World!" -- Done
-  * Take user input and print it -- Done
-  * Check if a number is even or odd -- Done
-  * Find the maximum of two numbers -- Done
-  * Find the maximum of three numbers -- Done
-  * Check if a number is positive, negative, or zero -- Done
-  * Convert Celsius to Fahrenheit -- Done
-  * Check if a year is a leap year -- Done
-  * Print numbers from 1 to N -- Done
-  * Print N numbers in reverse order -- Done
+  * Print "Hello, World!" -- ✔
+  * Take user input and print it ✔ 
+  * Check if a number is even or odd ✔ 
+  * Find the maximum of two numbers ✔ 
+  * Find the maximum of three numbers ✔ 
+  * Check if a number is positive, negative, or zero ✔ 
+  * Convert Celsius to Fahrenheit ✔ 
+  * Check if a year is a leap year ✔ 
+  * Print numbers from 1 to N ✔ 
+  * Print N numbers in reverse order ✔ 
 ### Level 2: Loops & Basic Data Structures (11-20)
-  * Sum of first N natural numbers -- Done
-  * Factorial of a number using a loop -- Done
-  * Fibonacci sequence up to N terms -- Done
-  * Check if a number is prime -- Done
-  * Print the multiplication table of a given number -- Done
-  * Count the number of digits in a number -- Done
-  * Reverse a number -- Done
-  * Find the sum of digits of a number -- Done
-  * Check if a number is a palindrome -- Done
-  * Find the greatest common divisor (GCD) of two numbers -- Done
+  * Sum of first N natural numbers ✔ 
+  * Factorial of a number using a loop ✔ 
+  * Fibonacci sequence up to N terms ✔ 
+  * Check if a number is prime ✔ 
+  * Print the multiplication table of a given number ✔ 
+  * Count the number of digits in a number ✔ 
+  * Reverse a number ✔ 
+  * Find the sum of digits of a number ✔ 
+  * Check if a number is a palindrome ✔ 
+  * Find the greatest common divisor (GCD) of two numbers ✔ 
 ### Level 3: Arrays & Slices (21-30)
-  * Find the largest element in an array -- Done
-  * Find the second largest element in an array -- Done
-  * Count occurrences of an element in an array -- Done
-  * Reverse an array -- Done
-  * Merge two sorted arrays -- Done
-  * Remove duplicates from an array -- Done
-  * Rotate an array to the right by K positions -- Done
-  * Find the intersection of two array -- Done
-  * Find the union of two arrays -- Done
+  * Find the largest element in an array ✔ 
+  * Find the second largest element in an array ✔ 
+  * Count occurrences of an element in an array ✔ 
+  * Reverse an array ✔ 
+  * Merge two sorted arrays ✔ 
+  * Remove duplicates from an array ✔ 
+  * Rotate an array to the right by K positions ✔ 
+  * Find the intersection of two array ✔ 
+  * Find the union of two arrays ✔ 
   * Find the missing number in an array of 1 to N
 ### Level 4: Strings (31-40)
-  * Reverse a string -- Done
-  * Check if a string is a palindrome -- Done
-  * Count vowels and consonants in a string -- Done
-  * Remove spaces from a string -- Done
-  * Find the most frequent character in a string -- Done
-  * Replace all occurrences of a character in a string -- Done
-  * Check if two strings are anagrams
+  * Reverse a string ✔ 
+  * Check if a string is a palindrome ✔ 
+  * Count vowels and consonants in a string ✔ 
+  * Remove spaces from a string ✔ 
+  * Find the most frequent character in a string ✔ 
+  * Replace all occurrences of a character in a string ✔ 
+  * Check if two strings are anagrams ✔
   * Convert a string to uppercase and lowercase
   * Find the first non-repeating character in a string
   * Implement a basic Caesar cipher
@@ -58,7 +58,7 @@
   * Write a function to check if a number is prime
   * Implement recursive factorial calculation
   * Implement recursive Fibonacci calculation
-  * Find the greatest common divisor using recursion -- Done (Check 2.10)
+  * Find the greatest common divisor using recursion ✔  (Check 2.10)
   * Implement a recursive binary search
   * Implement a recursive string reversal
   * Implement the Tower of Hanoi
