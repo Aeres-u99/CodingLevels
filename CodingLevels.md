@@ -38,7 +38,7 @@
   * Count vowels and consonants in a string -- Done
   * Remove spaces from a string -- Done
   * Find the most frequent character in a string -- Done
-  * Replace all occurrences of a character in a string
+  * Replace all occurrences of a character in a string -- Done
   * Check if two strings are anagrams
   * Convert a string to uppercase and lowercase
   * Find the first non-repeating character in a string
